@@ -1,0 +1,36 @@
+body {
+  /*display: inline-flex;*/
+  padding-left: 100px;
+  padding-right: 100px;
+
+  background-image: url("https://wallpapercave.com/wp/bK4yj1h.jpg");
+
+}
+
+
+.pokeContainer{
+justify-items: center;
+
+}
+
+
+.pokeCard{
+margin: 10px;
+  align-content: center;
+  padding: 50px;
+}
+
+.image{
+  width: 200px;
+}
+
+.button{
+  margin: 50px;
+}
+
+.row {
+  max-width: 100%;
+  display: flow;
+
+/*float: left*/
+}
